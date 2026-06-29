@@ -1,4 +1,6 @@
-![BlockPixel Studio](./src/assets/textlogo.png)
+<p align="center">
+  <img src="./src/assets/textlogo.png" alt="BlockPixel Studio" width="420" />
+</p>
 
 # BlockPixel Studio
 
